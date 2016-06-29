@@ -1,11 +1,8 @@
-Cobar是什么？<br>
-  Cobar是基于MySQL关系型数据的分布式处理系统，它可以在分布式的环境下看上去像传统数据库一样为您提供海量数据服务。<br>
+<h1>wiki</h1>
+https://github.com/alibaba/cobar/wiki
 
-目录结构<br>
-driver<br>
-&nbsp;&nbsp;是一个客户端jar包，是对mysql jdbc driver的封装，实现客户端对cobar server集群LB和HA的支持。<br>
-manager<br>
-&nbsp;&nbsp;是一个webApp，是cobar server集群的管理控制台，用于集群的运维与监控。<br>
-server<br>
-&nbsp;&nbsp;是一个server，是cobar的核心模块，用于实现cobar的全部核心功能。<br>
-driver,manager,server是3个独立的工程，相互之间没有关联且独立运行。<br>
+<h1>浜ゆ祦</h1>
+鏃烘椇缇わ細1362117836 <br>
+閭缁勶細ali-cobar@list.alibaba-inc.com <br>
+涓汉閭锛歺ianmao.hexm@alibaba-inc.com <br>
+闂姹囨�伙細[甯歌闂姹囨�籡(https://github.com/alibaba/cobar/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E7%AD%94)
